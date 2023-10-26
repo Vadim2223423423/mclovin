@@ -1,7 +1,7 @@
 print ("pisyapopakaka")
 
 num1 = float(input("Введите первое число: "))
-operator = input("Введите оператор (+, -, *, /): ")
+operator = input("Введите оператор (+, -, *, /, **): ")
 num2 = float(input("Введите второе число: "))
 
 if operator == "+":
