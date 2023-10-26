@@ -14,4 +14,4 @@ elif operator == "/":
      result = num1 / num2
     print("Результат:", result)
 elif operator == "**":
-    result = num1 * num2
+    result = num1 * num1
