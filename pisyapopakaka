@@ -15,4 +15,3 @@ elif operator == "/":
 elif operator == "**":
     result = num1 * num1
 print("Результат:", result)
-gfjyyjjttu
